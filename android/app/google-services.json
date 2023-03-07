@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482587259419",
+    "project_id": "candyshop-e1a60",
+    "storage_bucket": "candyshop-e1a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482587259419:android:df177310496c47cef73ebe",
+        "android_client_info": {
+          "package_name": "com.example.candy_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482587259419-6r9i644k3idq76kcra08e0m034vcm0in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1vuKXknXcu-RAFpSJH6p5XZXZnk9_QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482587259419-6r9i644k3idq76kcra08e0m034vcm0in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
