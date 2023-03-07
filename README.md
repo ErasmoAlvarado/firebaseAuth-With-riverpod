@@ -6,6 +6,7 @@ hello there this is a implemation wiht firebase auth with riverpod
     <li>guess,google, and password sign in</li>
     <li>state management handle with riverpod</li>
     <li>ui for the user interaction</li>
+    <li>black and white theme</li>
 </ul>
 
 <img src="https://github.com/ErasmoAlvarado/firebaseAuth-With-riverpod/blob/master/flutter_01.png?raw=true" width="200"></img>
